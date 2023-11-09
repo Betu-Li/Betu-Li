@@ -19,7 +19,7 @@
 </div>
 <div align="center">
 
-| <a href="https://github.com/YuayYeonhi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuayYeonhi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Yuay's github stats" /></a> | <a href="https://github.com/YuayYeonhi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuayYeonhi&layout=compact&theme=buefy&hide_border=true&hide=html&" /></a> |
+| <a href="https://github.com/YuayYeonhi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuayYeonhi&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yuay's github stats" /></a> | <a href="https://github.com/YuayYeonhi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuayYeonhi&layout=compact&theme=buefy&hide_border=true&hide=html&" /></a> |
 | ------------- | ------------- |
 
 </div>
