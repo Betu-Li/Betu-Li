@@ -17,7 +17,9 @@
 [![](https://img.shields.io/badge/-Email-green?style=for-the-badge&color=65C179&logo=minutemailer&logoColor=white)](mailto:yuay@yuay.ac.cn)
 
 </div>
-<div style="display: flex;">
-  <a href="https://github.com/YuayYeonhi"><img src="https://raw.githubusercontent.com/YuayYeonhi/github-stats-transparent/output/generated/overview.svg" alt="Yuay's github stats" /></a>
-  <a href="https://github.com/YuayYeonhi"><img src="https://raw.githubusercontent.com/YuayYeonhi/github-stats-transparent/output/generated/languages.svg" alt="Top Langs"/></a>
+<div align="center">
+
+| <a href="https://github.com/YuayYeonhi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuayYeonhi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Yuay's github stats" /></a> | <a href="https://github.com/YuayYeonhi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuayYeonhi&layout=compact&theme=buefy&hide_border=true&hide=html&" /></a> |
+| ------------- | ------------- |
+
 </div>
