@@ -12,14 +12,8 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/-Blog-orange?style=for-the-badge&color=09B3AF&logo=blogger&logoColor=white)](https://www.yuay.ac.cn/)
+[![](https://img.shields.io/badge/-Blog-orange?style=for-the-badge&color=09B3AF&logo=blogger&logoColor=white)](https://www.rakugaki.cn/)
 [![](https://img.shields.io/badge/-GDADMN-green?style=for-the-badge&color=121D33&logo=robotframework&logoColor=white)](https://gdadmn.yuay.ac.cn/)
 [![](https://img.shields.io/badge/-Email-green?style=for-the-badge&color=65C179&logo=minutemailer&logoColor=white)](mailto:yuay@yuay.ac.cn)
-
-</div>
-<div align="center">
-
-| <a href="https://github.com/YuayYeonhi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuayYeonhi&count_private=true&show_icons=true&hide_border=true&layout=compact&theme=buefy&hide=html" alt="Yuay's github stats" /></a> | <a href="https://github.com/YuayYeonhi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuayYeonhi&layout=compact&theme=buefy&hide_border=true&hide=html&" /></a> |
-| ------------- | ------------- |
 
 </div>
