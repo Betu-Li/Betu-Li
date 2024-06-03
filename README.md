@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="components/Header/main2.png"/>
+  <img src="https://pic.imgdb.cn/item/665df1ff5e6d1bfa05667f04.png"/>
 </div>
 
 
