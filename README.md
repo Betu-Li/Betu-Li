@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pic.imgdb.cn/item/665df1ff5e6d1bfa05667f04.png"/>
+  ![image](https://github.com/user-attachments/assets/9e32361c-79d1-408f-936d-05d29ab4b007)
 </div>
 
 
