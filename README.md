@@ -1,6 +1,4 @@
-<div align="center">
-  ![image](https://github.com/user-attachments/assets/9e32361c-79d1-408f-936d-05d29ab4b007)
-</div>
+![image](https://github.com/user-attachments/assets/9e32361c-79d1-408f-936d-05d29ab4b007)
 
 
 <h1 align="center">你好呀👋🏻</h1>
